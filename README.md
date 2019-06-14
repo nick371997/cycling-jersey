@@ -17,3 +17,5 @@ The Center LED's should be always ON or should light up when you brake.
 Pretty simple!
 
 P.S: Try to use accelerometers without built in gyroscope. If you do use them then don't connect the pins for gyroscope.
+
+I also included a hard code in the adx folder that can be used if you are stuck using library or any issues with setting up interrupts, but that code is archaic.
